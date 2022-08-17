@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sheikhrubel
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on any application based on python
+- 🧑‍💼 I'm currently working with <a href="https://sebpo.com/">SeviceEngine LTD<a/> as a Information Technology and Cybersecurity Executive.
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning API Testing
+- 💞️ I’m looking to collaborate on any application
 - 📫 How to reach me? playrubel@gmail.com
 
 <!---

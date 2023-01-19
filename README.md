@@ -1,6 +1,6 @@
 <h2>Basic Information</h2>
 - 👋 Hi, I’m @sheikhrubel </br>
-- 🧑‍💼 I'm currently working with <a href="https://sebpo.com/">SeviceEngine LTD<a/> as a Information Technology and Cybersecurity Executive.</br>
+- 
 <h2>Learning and Interest</h2>
 - 👀 I’m interested in Software Testing </br>
 - 🌱 I’m currently learning API Testing </br>

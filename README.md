@@ -3,7 +3,7 @@
 - 
 <h2>Learning and Interest</h2>
 - 👀 I’m interested in Software Testing </br>
-- 🌱 I’m currently learning API Testing </br>
+- 🌱 I’m currently learning Automation Testing </br>
 - 💞️ I’m looking to collaborate on any application </br>
 - 📫 How to reach me? playrubel@gmail.com
 
